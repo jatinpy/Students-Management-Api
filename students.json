@@ -1,0 +1,39 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "course": "BTech"
+    },
+    {
+      "id": 2,
+      "name": "Priya",
+      "course": "BSc"
+    },
+    {
+      "id": 3,
+      "name": "Amit",
+      "course": "BCA"
+    },
+    {
+      "id": 4,
+      "name": "Sneha",
+      "course": "MCA"
+    },
+    {
+      "id": 5,
+      "name": "Rohan",
+      "course": "BTech"
+    },
+    {
+      "id": 6,
+      "name": "Ananya",
+      "course": "BBA"
+    },
+    {
+      "id": 7,
+      "name": "Kajal",
+      "course": "MCA"
+    }
+  ]
+}
